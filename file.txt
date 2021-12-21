@@ -1,2 +1,5 @@
 This is a relevant fact\n
+<<<<<<< HEAD
 This is also relevant\n
+=======
+>>>>>>> 236a105... Add relevant fact
